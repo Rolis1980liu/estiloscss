@@ -1,5 +1,5 @@
 {
-  "versionActual": "2.9",
+  "versionActual": "3.0",
   "mostrarNuevaVersion": "No",
   "Blocked": "No",
   "nuevaVersion": {
@@ -38,6 +38,7 @@
     }
   ]
 }
+
 
 
 
