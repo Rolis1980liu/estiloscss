@@ -4,7 +4,7 @@
   "Blocked": "No",
   "nuevaVersion": {
     "numero": "3.1",
-    "fechaExpiracion": "2025-09-20",
+    "fechaExpiracion": "2050-01-20",
     "mensaje": "¡Descubre las mejoras de la versión 3.1! Hemos optimizado el rendimiento y agregado nuevas funcionalidades.",
     "enlace": "https://tusitio.com/version-3-1",
     "textoEnlace": "Ver detalles de la nueva versión"
@@ -38,6 +38,7 @@
     }
   ]
 }
+
 
 
 
