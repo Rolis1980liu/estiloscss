@@ -6,47 +6,31 @@
     "numero": "3.1",
     "fechaExpiracion": "2050-01-20",
     "mensaje": "¡Descubre las mejoras de la versión 3.1! Hemos optimizado el rendimiento y agregado nuevas funcionalidades.",
-    "enlace": "https://tusitio.com/version-3-1",
+    "enlace": "https://synapse-ganar-la-loteria.blogspot.com",
     "textoEnlace": "Ver detalles de la nueva versión"
   },
   "mensajesDinamicos": [
     {
-      "titulo": "¡Novedad! Nuevo Algoritmo de IA",
-      "texto": "Hemos implementado un nuevo algoritmo que mejora la precisión en un 15% para las predicciones a corto plazo."
+      "titulo": "¿Quieres dominar Synapse como un experto?",
+      "texto": "Explora nuestros videos educativos y aprende a usar todas las funciones de Synapse para mejorar tus predicciones en Pick 3. Desde el modo manual hasta el modo automático, cada video te acerca más a jugar con inteligencia.",
+      "enlace": "https://synapse-ganar-la-loteria.blogspot.com/p/tutoriales-synapse.html",
+      "textoEnlace": "Mira los tutoriales aquí"
     },
     {
-      "titulo": "Próximos Mantenimientos",
-      "texto": "El servicio estará fuera de línea por mantenimiento programado el 26 de octubre de 2025, de 02:00 a 04:00 AM (UTC-5)."
+      "titulo": "Repite menos, predice mejor",
+      "texto": "El 40% de las veces, ningún dígito del número ganador se repite en el siguiente sorteo, y en casi el 50% solo se repite uno. Usar esta estadística te permite descartar hasta tres dígitos del sorteo anterior y generar combinaciones más efectivas en el modo manual."
     },
     {
-      "titulo": "Tutoriales en Video",
-      "texto": "¡Ya están disponibles nuestros nuevos tutoriales! Aprende a usar las funciones avanzadas en nuestro canal de YouTube.",
-      "enlace": "https://www.youtube.com/@tunombredeusuario",
-      "textoEnlace": "Ir al canal de YouTube"
+      "titulo": "Combina Box y Straight",
+      "texto": "Alternar entre apuestas Box y Straight te da más oportunidades de ganar. El modo Box cubre más combinaciones, mientras que Straight ofrece premios mayores. Usar ambos en una jugada balancea riesgo y recompensa de forma inteligente."
+    },    
+    {
+      "titulo": "Juega con constancia",
+      "texto": "Establecer un presupuesto y seguir una estrategia definida mejora tus probabilidades. Apostar por impulso o cambiar de números constantemente reduce tus chances. La constancia permite que las estadísticas trabajen a tu favor con el tiempo."
     },
     {
-      "titulo": "Webinar Exclusivo",
-      "texto": "Te invitamos a un webinar gratuito sobre las nuevas funcionalidades de la versión 3.1. ¡Regístrate ahora!"
-    },
-    {
-      "titulo": "Encuesta de Satisfacción",
-      "texto": "Ayúdanos a mejorar. Responde nuestra breve encuesta y cuéntanos tu experiencia con la aplicación."
-    },
-    {
-      "titulo": "Consejo del Día",
-      "texto": "Recuerda revisar el rendimiento de tus modelos al inicio de cada jornada para optimizar los resultados."
+      "titulo": "Analiza patrones históricos",
+      "texto": "Estudiar resultados anteriores permite detectar patrones que se repiten con frecuencia. Algunos números tienden a aparecer en ciclos. Usar datos históricos reduce el azar y mejora tus probabilidades de acertar combinaciones ganadoras."
     }
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
